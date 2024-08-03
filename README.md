@@ -22,7 +22,7 @@ To run the project locally, follow these steps:
 3. Start the development server: npm run dev
 
 ## Deployment
-This project is deployed on GitHub Pages: [link to your deployed page]
+This project is deployed on GitHub Pages: [click here](https://kumar2004-2009.github.io/CurrencyConvertor/)
 
 ## Learning
 While building this project, I learned:
